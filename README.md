@@ -1,7 +1,6 @@
 # Keylogger 
-The name of the project is 
-At my time at Fullstack Academy we develop a Python-based keylogger program for the Linux operating system as part of a group project.
-The aim of the project is to increase awareness of the potential harm caused by phishing emails and educate users on the best practices for verifying the trustworthiness of email attachments and links.
+During my time at Fullstack Academy we develop a Python-based keylogger program for the Linux operating system as part of a group project.
+The aim of the project was to increase awareness of the potential harm caused by phishing emails and educate users on the best practices for verifying the trustworthiness of email attachments and links.
 
 
 ## What exactly is a keylogger?
