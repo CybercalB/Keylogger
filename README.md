@@ -42,4 +42,4 @@ References & Resources
 4. Blue, V. (2017, June 28). Keyloggers: Beware this hidden threat. PC World. Retrieved February 24, 2023, from https://www.pcworld.com/article/406909/keyloggers-what-you-need-to-know-about-this-hi dden-threat.html
 5. Chidi, G. A. (n.d.). Federal Judge Allows Key-board Stroke Capture. CNN. Retrieved February 24, 2023, from http://www.cnn.com/2002/TECH/internet/01/07/fbi.surveillance.idg/index.html
 6. (n.d.). ChatGPT. https://chat.openai.com/chat
-7. (n.d.). ChatGPT. https://chat.openai.com/chat
+
